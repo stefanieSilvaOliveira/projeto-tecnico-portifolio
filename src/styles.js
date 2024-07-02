@@ -380,12 +380,11 @@ export const ContainerTop = styled.div`
             font-size: 50px;
             height: 100%;
             margin-bottom: 200px;
-          
-            
             
             h1{
               color: #000;
               font-size: 50px;
+              text-align: center;
             }
             
     }
