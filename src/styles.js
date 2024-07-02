@@ -12,8 +12,7 @@ export const Container = styled.div`
            background-color: #000;
 
            @media (max-width: 480px) {
-               width: 165%;
-               
+               width: 165%;  
             }
 
     @media (max-width: 480px) {
@@ -30,9 +29,7 @@ export const Container = styled.div`
                 margin-right: 0;
     }
    }
-
-           li{
-           
+       li{
             color: #FFF;
             list-style: none;
             margin: 45px 40px 40px 45px;
@@ -40,11 +37,6 @@ export const Container = styled.div`
             font-size: 18px;
             font-weight: 400; 
             transition: 0.3s ease;
-
-            @media (max-width: 480px) {
-                 margin: 10px 15px;
-                 font-size: 16px;
-           }
 
             @media (max-width: 480px) {
                 margin: 5px 10px;
