@@ -11,9 +11,6 @@ export const Container = styled.div`
            padding: 20px 0 20px 20px;
            background-color: #000;
 
-           @media (max-width: 480px) {
-               width: 165%;  
-            }
 
     @media (max-width: 480px) {
           width: 100%;
@@ -143,6 +140,7 @@ export const TextContainer = styled.div`
 
             @media (max-width: 480px) {
               font-size: 18px;
+              text-align: center;
               margin-left: 0;
     }
 
