@@ -1,8 +1,14 @@
-# React + Vite
+Projeto de Portfólio - Código Certo
+Este projeto foi desenvolvido como parte de um teste técnico para um trabalho voluntário na empresa Código Certo. O objetivo é criar um portfólio utilizando React.js, ScrollReveal, Styled-Components e useEffect.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologias Utilizadas
+React.js: Biblioteca JavaScript para construção de interfaces de usuário.
+ScrollReveal: Biblioteca para criação de animações baseadas no scroll da página.
+Styled-Components: Biblioteca para estilização de componentes React utilizando CSS-in-JS.
+useEffect: Hook do React para realizar efeitos colaterais em componentes funcionais.
+Funcionalidades
+Apresentação de projetos com animações ao rolar a página.
+Estilização customizada utilizando Styled-Components.
+Uso do hook useEffect para gerenciamento de efeitos colaterais, como a integração com ScrollReveal.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://github.com/stefanieSilvaOliveira/projeto-tecnico-portifolio/assets/118211028/cca57008-26a9-43ad-a67c-4169982c6e79"/>
