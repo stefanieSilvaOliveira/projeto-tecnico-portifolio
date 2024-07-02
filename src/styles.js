@@ -11,7 +11,7 @@ export const Container = styled.div`
            padding: 20px 0 20px 20px;
            background-color: #000;
 
-           @media (max-width: 768px) {
+           @media (max-width: 480px) {
                width: 165%;
                
             }
@@ -19,7 +19,6 @@ export const Container = styled.div`
     @media (max-width: 480px) {
           width: 100%;
         }
-       
 
            ul{
             display: flex;
@@ -27,11 +26,10 @@ export const Container = styled.div`
             align-items: center;
             margin-right: 150px;
 
-            @media (max-width: 768px) {
+            @media (max-width: 480px) {
                 margin-right: 0;
     }
-
-           }
+   }
 
            li{
            
@@ -43,7 +41,7 @@ export const Container = styled.div`
             font-weight: 400; 
             transition: 0.3s ease;
 
-            @media (max-width: 768px) {
+            @media (max-width: 480px) {
                  margin: 10px 15px;
                  font-size: 16px;
            }
@@ -74,7 +72,7 @@ img{
     margin: 50px 90px 30px 20px;
     cursor: pointer;
 
-    @media (max-width: 768px) {
+    @media (max-width: 480px) {
       width: 80px;
       height: 80px;
       margin: 0 10px;
@@ -105,7 +103,7 @@ i{
             transform: scale(0.9);
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 480px) {
       font-size: 24px;
     }
 
