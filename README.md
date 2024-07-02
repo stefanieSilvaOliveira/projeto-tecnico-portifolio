@@ -1,4 +1,6 @@
-Projeto de Portfólio - Código Certo
+<b>Projeto de Portfólio - Código Certo</b>
+<b>
+<b>
 Este projeto foi desenvolvido como parte de um teste técnico para um trabalho voluntário na empresa Código Certo. O objetivo é criar um portfólio utilizando React.js, ScrollReveal, Styled-Components e useEffect.
 
 Tecnologias Utilizadas
